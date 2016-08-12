@@ -20,7 +20,7 @@ hardwares e gadgets disponíveis no mercado ou a possibilidade de se fazer um pa
 este fim e os softwares que farão a leitura e gravação dos dados, bem como a transposição
 destes para audiovisual.
 
->>Maquinarium
+Maquinarium
 A Neurosky, e a Emotiv, por exemplo, já disponibilizam dispositivos pessoais de baixo
 custo para leitura de ondas cerebrais. E seus devices já estão preparados para
 captar as ondas cerebrais e utilizá-las das mais diferentes formas a partir de programas
@@ -30,7 +30,7 @@ Além destas empresas, para a pesquisa de viabilidade do CyBaby, há o projeto o
 source, OpenEEG que apresenta circuitos esquemáticos de como montar seu próprio
 monitor eletroencefalográfico.
 
->>Imaginarium
+Imaginarium
 Para a integração do dispositivo com o computador, foi pensado o uso de frameworks de programação como
 Processing ou OpenFrameworks. Estas seriam as ferramentas usadas no projeto CyBaby para a criação do banco
 de dados de registro das ondas cerebrais do bebê e plataforma de visualização das experiências em que
